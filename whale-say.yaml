@@ -10,4 +10,4 @@ spec:
     container:
       image: docker/whalesay
       command: [cowsay] 
-      args: ["This is an Argo Workflow!"] ###Adding comment
+      args: ["This is an Argo Workflow!"] 
